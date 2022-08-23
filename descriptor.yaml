@@ -1,0 +1,6 @@
+code: ent-prj-strapi-bundle
+description: Template for ent projects
+components:
+  plugins:
+    - plugins/entando-template-ms-plugin.yaml
+

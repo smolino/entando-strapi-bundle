@@ -1,0 +1,7 @@
+image: smolino/strapi-node-microservice-aug-1-50:0.0.1-SNAPSHOT
+dbms: postgresql
+ingressPath: "/entando-template-node-api"
+healthCheckPath: "/actuator/health"
+roles:
+  - "et-first-role"
+  - "et-second-role"
